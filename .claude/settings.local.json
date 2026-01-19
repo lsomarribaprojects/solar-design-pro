@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(echo:*)",
+      "Bash(cat:*)",
+      "Bash(source:*)",
+      "Bash(alias:*)",
+      "Bash(bash -c \"source ~/.bashrc && alias saas-factory\")",
+      "Bash(npm install:*)",
+      "Bash(npm run dev:*)",
+      "Bash(find:*)",
+      "Skill(new-app)",
+      "Skill(new-app:*)",
+      "Bash(gh auth status:*)",
+      "Bash(gh repo create:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
