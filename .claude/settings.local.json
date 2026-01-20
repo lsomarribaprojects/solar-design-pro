@@ -14,7 +14,22 @@
       "Skill(new-app:*)",
       "Bash(gh auth status:*)",
       "Bash(gh repo create:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nInitial commit: SolarDesign Pro - Plataforma de diseño fotovoltaico con IA\n\n- Setup Next.js 16 + React 19 + TypeScript + Tailwind CSS\n- Arquitectura Feature-First para desarrollo con IA\n- Documentación BUSINESS_LOGIC.md con especificación completa\n- Configuración de SaaS Factory \\(agents, commands, skills\\)\n- Estructura de features: auth, dashboard, projects\n- Integración Supabase preparada \\(client + server\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git push:*)",
+      "Bash(supabase --version:*)",
+      "Bash(curl:*)",
+      "Bash(npx tsc:*)",
+      "Bash(timeout:*)",
+      "Bash(ping:*)",
+      "Bash(findstr:*)",
+      "Bash(start /b npm run dev)",
+      "Bash(tasklist:*)",
+      "mcp__playwright__browser_navigate",
+      "Bash(netstat:*)",
+      "Bash(npm run build:*)",
+      "Bash(vercel --version:*)",
+      "Bash(npx vercel:*)"
     ]
   }
 }

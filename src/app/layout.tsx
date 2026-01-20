@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'SaaS Factory App',
-  description: 'Built with SaaS Factory',
+  title: 'SolarDesign Pro - Diseño Fotovoltaico con IA',
+  description: 'Plataforma de diseño de sistemas fotovoltaicos con inteligencia artificial y cumplimiento NEC',
 }
 
 export default function RootLayout({
@@ -12,8 +12,8 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
-      <body>{children}</body>
+    <html lang="es">
+      <body className="antialiased">{children}</body>
     </html>
   )
 }
