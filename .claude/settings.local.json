@@ -29,7 +29,9 @@
       "Bash(netstat:*)",
       "Bash(npm run build:*)",
       "Bash(vercel --version:*)",
-      "Bash(npx vercel:*)"
+      "Bash(npx vercel:*)",
+      "Bash(git commit:*)",
+      "Bash(git fetch:*)"
     ]
   }
 }
