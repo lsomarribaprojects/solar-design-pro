@@ -359,3 +359,4 @@ En tu dashboard de Vercel, añade:
 ---
 
 **Next.js + Claude Code Setup v1.0** | Built with AI-first development in mind 🤖
+
